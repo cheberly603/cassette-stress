@@ -1,0 +1,346 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"re",
+				"relative"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"alig",
+				"align-items"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"font",
+				"font-family"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"top",
+				"top"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "{\n}\n",
+			"file": "Cassette Stress Website.sublime-project",
+			"file_size": 6,
+			"file_write_time": 133254747563494527,
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "f"
+					},
+					"AQAAAAEAAAAAAAAAAgAAAAAAAAAAAAAA",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAEAAAAAAAAAAQAAAAAAAAAAAAAAAADwvw"
+				],
+				[
+					2,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAEAAAAAAAAAAQAAAAAAAAABAAAAZg",
+					"CQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAIAAAAAAAAAAgAAAAAAAAAAAAAAAADwvw"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					""
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"All Syntaxes"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Performance"
+				],
+				[
+					"Packages/Default/Syntax Tests.sublime-build",
+					"Regex Compatibility"
+				]
+			],
+			[
+				"Packages/Default/Syntax Tests.sublime-build",
+				"All Syntaxes"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Makefile/Make.sublime-build",
+					""
+				],
+				[
+					"Packages/Makefile/Make.sublime-build",
+					"Clean"
+				]
+			],
+			[
+				"Packages/Makefile/Make.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Snippet: ",
+				"Snippet: InitialCode"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 130.666671753,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Cassette Stress Website/styles/style",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Cassette Stress Website/index.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Cassette Stress Website/styles/style.css",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Cassette Stress Website/scripts/main.js",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Cassette Stress Website/bio.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Cassette Stress Website/Merch-Table.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/scripts-js/main.js",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/main.js",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/images/cassettestress_hiattinswirl_0_1080x1350.jpg",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/images/cassettestress_3048910256038689497_48392287034_0_1080x1350.jpg",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/images/cassettestress_3048910256038689497_48392287034_1_1080x1349.jpg",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/index.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/WebProject2/scripts/main.js",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/WebProject2/index.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/bio.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/styles/style.css",
+		"/C/Users/chris/AppData/Roaming/Sublime Text/Packages/User/javascript.sublime-build",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/Merch-Table.html",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/about.html",
+		"/C/Users/chris/AppData/Roaming/Sublime Text/Packages/User/InitialCode.sublime-snippet",
+		"/C/Users/chris/Desktop/Dev Stuff/Website Projects/Test-Site#1/styles/style",
+		"/C/Users/chris/OneDrive/Documents/GitHub/cheberly603/mytestfilecssfile.css",
+		"/C/Users/chris/OneDrive/Documents/GitHub/cheberly603/index.html",
+		"/C/Users/chris/OneDrive/Documents/GitHub/cheberly603/README.md",
+		"/C/Users/chris/Desktop/Unconfirmed 39468.crdownload"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Cassette Stress Website.sublime-project",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3,
+								3
+							]
+						],
+						"settings":
+						{
+							"incomplete_sync": null,
+							"syntax": "Packages/JSON/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 40.4444444444
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SFTP":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 156.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Default/Syntax Tests.sublime-build",
+	"project": "Cassette Stress Website.sublime-project",
+	"replace":
+	{
+		"height": 60.4444444444
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 165.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
